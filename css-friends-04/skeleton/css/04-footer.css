@@ -1,1 +1,17 @@
 /* PHASE 4: Footer */
+.footer {
+  width: 900px;
+  margin: 0 auto;
+  background: #fff;
+  color: #aaa;
+  font-size: 14px;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  min-height: 30px;
+}
+.small {
+
+}
